@@ -1,0 +1,102 @@
+[
+  {
+    "alt": "alt name 1",
+    "src": "/images/img1.jpg",
+    "filters": ["city"]
+  },
+  {
+    "alt": "alt name 2",
+    "src": "/images/img2.jpg",
+    "filters": ["mountains", "forest"]
+  },
+  {
+    "alt": "alt name 3",
+    "src": "/images/img3.jpg",
+    "filters": ["sea"]
+  },
+  {
+    "alt": "alt name 4",
+    "src": "/images/img4.jpg",
+    "filters": ["forest"]
+  },
+  {
+    "alt": "alt name 5",
+    "src": "/images/img5.jpg",
+    "filters": ["sea", "mountains"]
+  },
+  {
+    "alt": "alt name 6",
+    "src": "/images/img6.jpg",
+    "filters": ["sea", "city"]
+  },
+  {
+    "alt": "alt name 7",
+    "src": "/images/img7.jpg",
+    "filters": ["forest"]
+  },
+  {
+    "alt": "alt name 8",
+    "src": "/images/img8.jpg",
+    "filters": ["forest"]
+  },
+  {
+    "alt": "alt name 9",
+    "src": "/images/img9.jpg",
+    "filters": ["city"]
+  },
+  {
+    "alt": "alt name 10",
+    "src": "/images/img10.jpg",
+    "filters": ["sea"]
+  },
+  {
+    "alt": "alt name 11",
+    "src": "/images/img11.jpg",
+    "filters": ["mountains", "sea"]
+  },
+  {
+    "alt": "alt name 12",
+    "src": "/images/img12.jpg",
+    "filters": ["forest"]
+  },
+  {
+    "alt": "alt name 13",
+    "src": "/images/img13.jpg",
+    "filters": ["city"]
+  },
+  {
+    "alt": "alt name 14",
+    "src": "/images/img14.jpg",
+    "filters": ["city"]
+  },
+  {
+    "alt": "alt name 15",
+    "src": "/images/img15.jpg",
+    "filters": ["sea"]
+  },
+  {
+    "alt": "alt name 16",
+    "src": "/images/img16.jpg",
+    "filters": ["sea", "mountains"]
+  },
+  {
+    "alt": "alt name 17",
+    "src": "/images/img17.jpg",
+    "filters": ["forest"]
+  },
+  {
+    "alt": "alt name 18",
+    "src": "/images/img18.jpg",
+    "filters": ["sea"]
+  },
+  {
+    "alt": "alt name 19",
+    "src": "/images/img19.jpg",
+    "filters": ["sea", "city"]
+  },
+  {
+    "alt": "alt name 20",
+    "src": "/images/img20.jpg",
+    "filters": ["sea", "city"]
+  }
+]
